@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poornimarathaur&label=Profile%20views&color=0e75b6&style=flat" alt="poornimarathaur" /> </p>
 
-- 🔭 I’m currently working on [Nursery Nisarga](https://nurserynisarga.in/)
+- 🔭 I’m currently working in Yash Technologies
 
 - 📫 How to reach me **poornimarathaur028@gmail.com**
 
